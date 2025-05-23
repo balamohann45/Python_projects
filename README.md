@@ -10,11 +10,15 @@ Updates every second using time.sleep(1)
 
 Ends with a "Timer completed!" message
 
-🧪 How to Use
+#🧪 How to Use
+
 1.Clone the repository:
 git clone https://github.com/yourusername/your-repo-name.git
+
 2.Navigate to the project directory:
 cd your-repo-name
+
 3.Run the script:
 python countdown_timer.py
+
 4.Enter the time in seconds when prompted.
